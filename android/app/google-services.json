@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085613503658",
+    "project_id": "fir-examdoit",
+    "storage_bucket": "fir-examdoit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085613503658:android:6bd2d605ce4ef83abb8cd3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085613503658-q1o8j6gv3hnuhjo68hsite93ngs4igiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrK6_cYtbSbGUFrqoWitFH3l9ptYwCms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085613503658-q1o8j6gv3hnuhjo68hsite93ngs4igiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
